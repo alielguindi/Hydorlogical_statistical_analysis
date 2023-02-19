@@ -107,6 +107,8 @@ D =  duration;
 
 save('assignment1_output_part1.mat','D','AnnualMax');
 
+display('finished')
+
 
 
 
